@@ -15,14 +15,3 @@ Attribution: you must include a copy of the license in any distribution and prov
 Not a Warranty: The software is provided "as-is," without any warranties or guarantees, theres no liability for any issues that arise from using the software.
 notice requirements: if you modify the software and distribute it, you must include a prominent notice stating that you have changed the files.
 no trademark rights: the license does not grant any rights to use the trademarks of the project.
-
-Summary Table
-Aspect	                Details
-Allows Use	            Yes
-Allows Modification	    Yes
-Allows Distribution	    Yes
-Requires Attribution	  Yes
-Patent Grant	          Yes
-Includes Warranty	      No
-Notice Requirement	    Yes, for modifications
-Trademark Rights	      No
